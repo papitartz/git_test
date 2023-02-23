@@ -1,0 +1,2 @@
+Hello World. working on using text editor and using command lines in order to upload code
+and become a real coder lolololol
